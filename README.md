@@ -1,5 +1,5 @@
 
-# Election - DAPP Tutorial
+# Voting App - Instructions
 Build your first decentralized application, or Dapp, on the Ethereum Network with this tutorial!
 
 Follow the steps below to download, install, and run this project.
